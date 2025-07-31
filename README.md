@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Sayed
 
-<!--
-**sayedbasha22/sayedbasha22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Linux and Cloud enthusiast, exploring DevOps tools and best practices. I love working with infrastructure, automation, and open-source technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+
+- 💻 Linux (Ubuntu, Bash)
+- ☁️ AWS (EC2, VPC, IAM)
+- 🔧 Git & GitHub
+- 🐳 Docker 
+- 📜 Shell Scripting
+-    EKS
+-   Infrastructure as Code (Terraform)
+-   CI/CD Pipelines (Jenkins)
+-   Monitoring & Logging
+---
+
+
+---
+
+## 📂 Repositories
+
+Check out my (https://github.com/sayedbasha22/devops-hands-on/blob/main/01-linux-commands/notes.md) – a quick reference guide I built from my own notes.
+
+More coming soon!
+
+---
+
+
+## 🔗 Connect With Me
+ 
+ https://www.linkedin.com/in/sayed-m-61592a271/
+
